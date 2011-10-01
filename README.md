@@ -21,14 +21,14 @@ Carefully read the help by typing `./bincur.sh`.
 
 Basic syntax is:
 
-./bincur.sh [-p PATH] [-d] [-i] [-y] [-k] [-s SET]"
-	-p: specify the folder where put the sets (default ~/.sets)
-	-d: perform the download of sets
-	-dx: include X sets
-	-i: install all the sets WITHOUT the kernel
-	-y: as -di but without interactive confirmations
-	-k: also install the generic kernel
-	-s: download only the specified set SET
+	./bincur.sh [-p PATH] [-d] [-i] [-y] [-k] [-s SET]"
+		-p: specify the folder where put the sets (default ~/.sets)
+		-d: perform the download of sets
+		-dx: include X sets
+		-i: install all the sets WITHOUT the kernel
+		-y: as -di but without interactive confirmations
+		-k: also install the generic kernel
+		-s: download only the specified set SET
 
 Warning!!!
 ==========
