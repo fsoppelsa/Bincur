@@ -271,3 +271,4 @@ fi
 
 echo "Your system is now updated to latest snapshot available at releng.NetBSD"
 echo
+
