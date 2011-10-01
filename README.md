@@ -17,7 +17,8 @@ Getting started
 ===============
 
 Please be sure you have enough disk space for the .tgz files.
-Carefully read the help by typing `./bincur.sh`.
+
+Carefully read the help by typing `./bincur.sh`
 
 Basic syntax is:
 
@@ -33,8 +34,8 @@ Basic syntax is:
 Warning!!!
 ==========
 
-When you decide to use the -k please make sure you DO KNOW what
-you're doing.
+When you decide to use the **-k** option please make sure you **DO KNOW**
+what you're doing.
 
 Ideas
 =====
